@@ -54,3 +54,13 @@ $ yarn run start
 # generate static project
 $ yarn run generate
 ```
+
+## Screenhosts
+
+## Devices
+![devices](https://github.com/dmux/smartmonitor/assets/2119249/4a4f641c-3b1d-439c-9564-44a72ae4da26)
+
+## IoT Data
+![data](https://github.com/dmux/smartmonitor/assets/2119249/403bd4f1-d9a0-4bc0-b4f2-e7a49ab6254b)
+
+
