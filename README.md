@@ -28,15 +28,17 @@ A plataforma conta com as seguintes funcionalidades:
 
 ## Variáveis de Ambiente
 
-ALLOWED_ORIGINS = "\*"
+```bash
+ALLOWED_ORIGINS = "*"
 NODE_ENV = "production"
 PORT = "5000"
-BASE_URL = "<http://localhost:3000/api>"
+BASE_URL = "http://localhost:3000/api"
 TZ = "America/Sao_Paulo"
 AUTH0_DOMAIN = ""
 AUTH0_AUDIENCE = ""
 AUTH0_CLIENT_ID = ""
 AUTH0_CLIENT_SECRET = ""
+```
 
 ## Build Setup
 
